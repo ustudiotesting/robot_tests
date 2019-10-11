@@ -1431,7 +1431,7 @@ rwsbank:
            accelerator: 120
            auction:  [70, 80]
         dgfOtherAssets:
-            accelerator: 360
+            accelerator: 120
             auction:  [55, 65]
         dgfInsider:
             accelerator: 360
@@ -1442,4 +1442,4 @@ rwsbank:
         provider:       rwsbank_Provider
         provider1:      rwsbank_Provider1
         viewer:         rwsbank_Viewer
-    timeout_on_wait: 20
+    timeout_on_wait: 120
